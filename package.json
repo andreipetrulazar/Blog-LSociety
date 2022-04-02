@@ -4,9 +4,8 @@
   "homepage": "https://blog.lsociety.ro/",
   "private": true,
   "engines": {
-    "node": ">=14.0"
+    "node": "14.x"
   },
-
   "engineStrict": true,
   "scripts": {
     "dev": "next dev",
